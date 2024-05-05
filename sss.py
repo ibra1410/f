@@ -34,7 +34,7 @@ def create():
  user=str(random.choice('qwertyuioplkjhgfdsazxcvbnm')[0])+str(''.join(random.choice(ch) for i in range(9)))
  
  
- tlg = f'''تم الفك  محمد جابلك حساب خيالي🇱🇻
+ tlg = f'''الاداه كامله من تطوير @X_G9E🇱🇻
  رمز الحسابات hhhh
 اسم المستخدم {user}'''
  
